@@ -1,7 +1,7 @@
 <h1 align="center">Olá Ser 👋<br/>Meu nome é Kaique :smiling_face_with_three_hearts: </h1>
 
 <h2 align="center"></h2>
-<table>
+
 ~~~python
 print("Python é minha queridinha")
 things = ["Django","Pandas","NumPy"]
@@ -10,7 +10,6 @@ def i_know(things):
         print(i)
 i_know(things)
 ~~~
-</table>
 ~~~php
 <?= "PHP me parece promissor" ?>
 <?php
