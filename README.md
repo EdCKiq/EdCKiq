@@ -22,4 +22,4 @@ Para o meu lado de Data Science
  f(x)= \frac{1}{1+e^-x}
 $$ --> 
 
-<div align="center"><img style="background: white;" src="svg/KdmP6D2i3M.svg"></div>
+<div align="center"><img style="background: black;" src="svg/KdmP6D2i3M.svg"></div>
