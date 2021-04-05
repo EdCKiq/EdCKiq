@@ -16,10 +16,12 @@ e
 <?= "PHP me parece promissor" ?>
 ~~~
 
-Para o meu lado de Data Science
+Para o meu lado de Data Science a primeira função que eu vi na vida
 
 <!-- $$
  f(x)= \frac{1}{1+e^-x}
 $$ --> 
 
-<div align="center"><img style="background: black; " src="svg/tzmyW9gwcS.svg"></div>
+<div align="center"><img style="background: black; " src="svg/F5VSyBtG62.svg"></div>
+
+<p "align=center">Sigma</p>
