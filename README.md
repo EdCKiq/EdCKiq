@@ -9,7 +9,9 @@
 ~~~python
 print("Python é minha queridinha")
 ~~~
+
 and
+
 ~~~php
 <?= "PHP me parece promissor" ?>
 ~~~
