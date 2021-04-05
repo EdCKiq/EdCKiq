@@ -19,5 +19,5 @@ e
 Para o meu lado de Data Science
 
 $$
-f(x)= \frac{1}{1+e^-x}
+ f(x)= \frac{1}{1+e^-x}
 $$
