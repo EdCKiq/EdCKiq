@@ -24,4 +24,4 @@ $$ -->
 
 <div align="center"><img style="background: black; " src="svg/F5VSyBtG62.svg"></div>
 
-<p "align=center">Sigma</p>
+<p align=center>Sigma</p>
