@@ -18,4 +18,8 @@ e
 
 Para o meu lado de Data Science
 
-![formula](https://render.githubusercontent.com/render/math?math=f(x)=\frac{1}{1+e^-x})
+<!-- $$
+ f(x)= \frac{1}{1+e^-x}
+$$ --> 
+
+<div align="center"><img style="background: white;" src="svg/KdmP6D2i3M.svg"></div>
