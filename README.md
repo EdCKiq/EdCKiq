@@ -24,3 +24,7 @@ i_know(things)
     i_know($things);
 ?>
 ~~~
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="edckiq"><a class="LI-simple-link" href='https://br.linkedin.com/in/edckiq?trk=profile-badge'>Kaique Gomes Viana</a></div>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
