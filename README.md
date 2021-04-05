@@ -25,5 +25,5 @@ i_know(things)
 ?>
 ~~~
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCKiq&theme=radical)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&&theme=dark)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCKiq&theme=dark)
