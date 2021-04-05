@@ -19,9 +19,9 @@ e
 Para o meu lado de Data Science a primeira função que eu vi na vida
 
 <!-- $$
- f(x)= \frac{1}{1+e^-x}
-$$ --> 
+ f(x)= \frac{1}{1+e^{-x}}
+$$ -->
 
-<div align="center"><img style="background: black; " src="svg/F5VSyBtG62.svg"></div>
+<div align="center"><img style="background: white; " src="svg/wodh0KOscS.svg"></div>
 
 <p align=center>Sigma</p>
