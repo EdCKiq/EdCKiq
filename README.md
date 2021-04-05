@@ -10,8 +10,13 @@
 print("Python é minha queridinha")
 ~~~
 
-and
+e
 
 ~~~php
 <?= "PHP me parece promissor" ?>
 ~~~
+
+Para o meu lado de Data Science
+$$
+f(x)= \frac{1}{1+e^-x}
+$$
