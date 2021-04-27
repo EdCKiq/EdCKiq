@@ -4,7 +4,6 @@
 <p align="center">Pode parecer meio bagunçado, mas tem uma lógica por traz dos nomes **eu acredito em você rsrs**, tenho certeza que vai fazer sentido <span align="center">:wink:</span></p>
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact)
-
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCKiq&theme=dark&layout=compact)
 
 ~~~python
