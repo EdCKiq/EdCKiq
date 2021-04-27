@@ -5,7 +5,7 @@
 
 <img align="center">![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact)</img>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCKiq&theme=dark&layout=compact)
+<img align="center">![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCKiq&theme=dark&layout=compact)</img>
 
 ~~~python
 print("Python é minha queridinha")
