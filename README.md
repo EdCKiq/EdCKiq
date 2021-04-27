@@ -3,9 +3,9 @@
 <p align="center">Aqui estão todos os meus códigos, sendo de testes, estudos, pirações da madrugada (como tentar aprender Java) ou qualquer coisa que eu ache interesssante compartilhar.</p>
 <p align="center">Pode parecer meio bagunçado, mas tem uma lógica por traz dos nomes **eu acredito em você rsrs**, tenho certeza que vai fazer sentido <span align="center">:wink:</span></p>
 
-<img align="left">![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact)</img>
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact)
 
-<img align="right">![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCKiq&theme=dark&layout=compact)</img>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdCKiq&theme=dark&layout=compact)
 
 ~~~python
 print("Python é minha queridinha")
