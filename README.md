@@ -8,5 +8,6 @@
 
 ~~~
 print("Python minha queridinha, ")
-cout << "jutamente com o c++ "; :wink:
+
+cout << "juntamente com c++ :3";
 ~~~
