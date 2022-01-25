@@ -10,5 +10,5 @@
 ~~~
 print("Python minha queridinha")
 
-cout << "Mas estou começando a curtir C++ também";
+cout << "C++ fica em segundo hehe";
 ~~~
