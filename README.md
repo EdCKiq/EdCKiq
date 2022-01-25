@@ -11,6 +11,4 @@
 print("Python minha queridinha")
 
 cout << "Mas estou começando a curtir C++ também";
-
-console.log("E perdendo o preconceito com JS rsrs");
 ~~~
