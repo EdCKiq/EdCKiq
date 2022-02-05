@@ -4,7 +4,7 @@
 <p align="center">Na maioria coisas relacionadas a dados, como modelos de ML ou sistemas (WEB e Mobile) de distribuição para o mesmo.</p>
 <p align="center">Eu tenho um certo toque, então tudo vai estar em seu devido lugar, ou seja, cada repo tem seu nível maior que agrupa os projetinhos, espero que goste :)</p>
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bdkiqdd&theme=dark&layout=compact&langs_count=5)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact&langs_count=5)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdkiqdd&theme=dark&layout=compact)
 
 ~~~
