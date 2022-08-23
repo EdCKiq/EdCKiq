@@ -9,6 +9,3 @@
 <img  height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact&langs_count=5">
 <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdkiqdd&theme=dark&layout=compact">
 </p>
-  ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdkiqdd&theme=dark&layout=compact)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact&langs_count=5)
-
