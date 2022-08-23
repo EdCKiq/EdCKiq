@@ -6,8 +6,8 @@
 
 > O que ando mexendo atualmente e quanto da minha cabeça ando quebrando, pode ser visto abaixo. (as vezes um pouco quebrado, front com certeza não é comigo. 🤣🤣)</p>
 <p align="center">
-<img  height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact&langs_count=5">
-<img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdkiqdd&theme=dark&layout=compact">
+<img  height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact&langs_count=5">
+<img  height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdkiqdd&theme=dark&layout=compact">
 </p>
   ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdkiqdd&theme=dark&layout=compact)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact&langs_count=5)
