@@ -2,6 +2,8 @@
 
 <p align="center">Aqui estão todos os meus projetos, normalmente relacionados a Dados.🧑‍💻</p>
 
+[![wakatime](https://wakatime.com/badge/user/273e63c7-0799-4c83-8c88-c8daa5622366.svg)](https://wakatime.com/@273e63c7-0799-4c83-8c88-c8daa5622366)
+
 > O que ando mexendo atualmente e quanto da minha cabeça ando quebrando, pode ser visto abaixo. (as vezes um pouco quebrado, front com certeza não é comigo. 🤣🤣)</p>
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact&langs_count=5)
