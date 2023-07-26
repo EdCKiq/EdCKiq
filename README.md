@@ -1,11 +1,10 @@
-<h2 align="center">🏋 Welcome to my World 🏋</h2>
+<h2 align="center">Hey You!</h2>
 
-<p align="center">Aqui estão todos os meus projetos, normalmente relacionados a Dados.🧑‍💻</p>
+<p align="center">I'm currently a Data Engineer🧑‍💻</p>
+<p align="center">Improving my skills on Big Data with the Modern Data Stack and discovering other data stuffs</p>
 
 [![wakatime](https://wakatime.com/badge/user/273e63c7-0799-4c83-8c88-c8daa5622366.svg)](https://wakatime.com/@273e63c7-0799-4c83-8c88-c8daa5622366)
 
-> O que ando mexendo atualmente e quanto da minha cabeça ando quebrando, pode ser visto abaixo. (as vezes um pouco quebrado, front com certeza não é comigo. 🤣🤣)</p>
-<p align="center">
-<img  height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact&langs_count=5">
-<img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdkiqdd&theme=dark&layout=compact">
+<img  height="100" src="https://github-readme-stats.vercel.app/api/wakatime?username=EdCKiq&theme=dark&layout=compact&langs_count=5">
+<img  height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdkiqdd&theme=dark&layout=compact">
 </p>
