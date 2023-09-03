@@ -1,7 +1,7 @@
 <h2 align="center">Hey You!</h2>
 
 <p align="center">I'm currently a Data Engineer🧑‍💻</p>
-<p align="center">Improving my skills in the development world with Back-End and Data projects, automation, and infrastructure scripts</p>
+<p align="center">Improving my skills in the development world with Back-End, Data and Game projects, automation, and infrastructure scripts</p>
 
 [![wakatime](https://wakatime.com/badge/user/273e63c7-0799-4c83-8c88-c8daa5622366.svg)](https://wakatime.com/@273e63c7-0799-4c83-8c88-c8daa5622366)
 
